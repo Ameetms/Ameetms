@@ -1,7 +1,5 @@
 ### Here is What I'm working On!👋
 
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently doing my ...  Graduation(2nd year)Bsc Computer Science
