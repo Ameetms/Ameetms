@@ -1,5 +1,5 @@
 ### Here is What I'm working On!👋
-![](GitHub/About/Images/logo.png)![](Ameetms.png)
+![](GitHub/About/Images/logo.png)
 # Here are some ideas to get you started:
 
 - 🔭 I’m currently doing my ...  Graduation(2nd year)Bsc Computer Science
