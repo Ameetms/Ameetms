@@ -1,4 +1,4 @@
-### Hey there this is what I'm working On!👋
+## Hey there this is what I'm working On!👋
 
 
 <a href="https://linkedin.com/in/imthepk">
@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-
+### My Profile [Ameetms](https://about.me/ameet_m.s)
 - 🔭 I’m currently doing my ...  Graduating in...(2nd year)Bsc Computer Science
 - 🌱 I’m currently learning ...  Python
 - 👯 I’m looking to collaborate on ...  Python
@@ -30,7 +30,7 @@
 - 💬 Ask me about ...  Anything
 - 📫 How to reach me: ...  [Instagram](https://www.instagram.com/ameet_m.s/?hl=en)
 - 😄 Pronouns: ...He/His
-- ⚡ Fun fact: ...I love to do workout daily
+- ⚡ Fun fact: ...I love to do Workout daily
 
 **Languages and Tools**
 
