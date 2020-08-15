@@ -1,7 +1,7 @@
 ### Here is What I'm working On!👋
 # Here are some ideas to get you started:
 
-- 🔭 I’m currently doing my ...  Graduation(2nd year)Bsc Computer Science
+- 🔭 I’m currently doing my ...  Graduating..(2nd year)Bsc Computer Science
 - 🌱 I’m currently learning ...  Python
 - 👯 I’m looking to collaborate on ...  Python
 - 🤔 I’m looking for help with ...  AWS
