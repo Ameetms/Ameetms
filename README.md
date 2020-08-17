@@ -23,12 +23,12 @@
 <br/>
 
 ### My Profile [Ameetms](https://about.me/ameet_m.s)
-- 🔭 I’m currently doing my ...  Graduating in...(2nd year)Bsc Computer Science
+- 🔭 I’m currently doing my ...  Graduation in...Bsc Computer Science(2nd year)
 - 🌱 I’m currently learning ...  Python
 - 👯 I’m looking to collaborate on ...  Python
 - 🤔 I’m looking for help with ...  AWS
 - 💬 Ask me about ...  Anything
-- 📫 How to reach me: ...  [Instagram](https://www.instagram.com/ameet_m.s/?hl=en)
+- 📫 How to reach me: ...  [Instagram](https://www.instagram.com/ameet_m.s)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I love to play Games of all kind
 
