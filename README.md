@@ -30,7 +30,7 @@
 - 💬 Ask me about ...  Anything
 - 📫 How to reach me: ...  [Instagram](https://www.instagram.com/ameet_m.s/?hl=en)
 - 😄 Pronouns: ...He/His
-- ⚡ Fun fact: ...I love to do Workout daily
+- ⚡ Fun fact: ...I love to play Games of all kind
 
 **Language that I use**
 
