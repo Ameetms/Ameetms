@@ -1,4 +1,5 @@
-### Here is What I'm working On!👋
+### Hey there this is what I'm working On!👋
+
 
 
 <a href="https://linkedin.com/in/imthepk">
@@ -22,7 +23,9 @@
 <br/>
 <br/>
 
+
 ### My Profile [Ameetms](https://about.me/ameet_m.s)
+
 
 - 🔭 I’m currently doing my ...  Graduating in...(2nd year)Bsc Computer Science
 - 🌱 I’m currently learning ...  Python
