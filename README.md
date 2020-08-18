@@ -23,16 +23,8 @@
 <br/>
 <br/>
 
-<<<<<<< HEAD
-
-### My Profile [Ameetms](https://about.me/ameet_m.s)
-
-
-- 🔭 I’m currently doing my ...  Graduating in...(2nd year)Bsc Computer Science
-=======
 ### My Profile [Ameetms](https://about.me/ameet_m.s)
 - 🔭 I’m currently doing my ...  Graduation in...Bsc Computer Science(2nd year)
->>>>>>> 1587610f725e401381679d69c310997623043343
 - 🌱 I’m currently learning ...  Python
 - 👯 I’m looking to collaborate on ...  Python
 - 🤔 I’m looking for help with ...  AWS
