@@ -32,6 +32,7 @@
 - 📫 How to reach me: ...  [Instagram](https://www.instagram.com/ameet_m.s)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I love to play Games of all kind
+- 🎯 Google Cloud Training Profile .......[GCT](https://google.qwiklabs.com/public_profiles/6b5a3926-cfe5-4254-82ca-8375a7c5dbbd)
 
 **Language that I use**
 
