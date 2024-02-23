@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning ...  Python
 - 👯 I’m looking to collaborate on ...  Python
 - 🤔 I’m looking for help with ...  AWS
-- 💬 Ask me about ...  Anything
+- 💬 Currently Studing Data Analytics for Business as a specilization in MBA
 - 📫 How to reach me: ...  [Instagram](https://www.instagram.com/ameet_m.s)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I love to play Games of all kind
